@@ -66,7 +66,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=LxsZxh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,eccc68,ffa502,ff7f50,ff6348&theme=graywhite&locale=en" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxsZxh&hide_title=true&hide_border=true&layout=compact&bg_color=7bed9f,2ed573,70a1ff,1e90ff&theme=graywhite&locale=en" />
 
