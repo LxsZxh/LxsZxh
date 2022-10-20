@@ -1,5 +1,5 @@
-### hey there ![](https://visitor-badge.glitch.me/badge?page_id=LxsZxh.LxsZxh)
-
+### hey there 
+![](https://visitor-badge.glitch.me/badge?page_id=LxsZxh.LxsZxh)
 <br />
 
 hi, i'm [Liu Song](https://blog.lvez.cn/), a passionate web developer from China. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
@@ -23,12 +23,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 **📊 this week i spent my time on:**
 ```text
-Vue3         7 hrs 27 mins   █████████████████▒░░░░░░░   69.09 %
-Vite         7 hrs 27 mins   █████████████████▒░░░░░░░   69.09 %
-TypeScript   7 hrs 27 mins   █████████████████▒░░░░░░░   69.09 %
-EsLint       7 hrs 27 mins   █████████████████▒░░░░░░░   69.09 %
-HTML         1 hr 41 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
-JavaScript   1 hr 15 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Vue3         10 hrs 30 mins    ████████▒░░░░░░░░░░░░░░░░   25.00 %
+Vite         3  hrs 20 mins    ████████████▒░░░░░░░░░░░░   40.00 %
+TypeScript   2  hrs 10 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   10.00 %
+ESLint       1  hrs 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░    8.00 %
+HTML         1  hr  05 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░    4.00 %
+JavaScript   2  hr  45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░    8.00 %
+Docker       2  hr  10 mins    ████▒░░░░░░░░░░░░░░░░░░░░   15.00 %
 ```
 
