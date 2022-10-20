@@ -32,9 +32,9 @@ JavaScript   2  hrs 45 mins    ██▒░░░░░░░░░░░░░�
 Docker       2  hrs 10 mins    ████▒░░░░░░░░░░░░░░░░░░░░
 Others       1  hr  05 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░
 ```
-<br />
+
 Currently, the weather is: **16°C, clear sky**☀️
-<br />
+
 Today, the sun rises at **05:58** and sets at **17:50**.
 
 🌟 if you like what i do, you can give me a little star 🌟
