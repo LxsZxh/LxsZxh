@@ -1,11 +1,4 @@
-### hey there
-
-
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=LxsZxh.LxsZxh)
+### hey there ![](https://visitor-badge.glitch.me/badge?page_id=LxsZxh.LxsZxh)
 
 <br />
 
@@ -25,3 +18,16 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 **📈 my github stats**
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=LxsZxh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,eccc68,ffa502,ff7f50,ff6348&theme=graywhite&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxsZxh&hide_title=true&hide_border=true&layout=compact&bg_color=7bed9f,2ed573,70a1ff,1e90ff&theme=graywhite&locale=en" />
+
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+```text
+Vue3         7 hrs 27 mins   █████████████████▒░░░░░░░   69.09 %
+Vite         7 hrs 27 mins   █████████████████▒░░░░░░░   69.09 %
+TypeScript   7 hrs 27 mins   █████████████████▒░░░░░░░   69.09 %
+EsLint       7 hrs 27 mins   █████████████████▒░░░░░░░   69.09 %
+HTML         1 hr 41 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
+JavaScript   1 hr 15 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+```
+
