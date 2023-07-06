@@ -13,22 +13,25 @@ Nice to meet you! - 很高兴遇见你！
 
 [🏠 - Home - 主页](https://github.com/LxsZxh) ｜ [✍️ - Blog - 博客](https://blog.lvez.cn/) ｜ [📓 - JueJin - 掘金](https://juejin.cn/user/268728892143464/posts)
 
-**🌈 languages and tools:**
+<!-- **🌈 languages and tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 
-**📈 my github status**
+<!-- **📈 my github status** -->
+
+## 👨‍💻 - Statistics - 统计 
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=LxsZxh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,eccc68,ffa502,ff7f50,ff6348&theme=graywhite&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxsZxh&hide_title=true&hide_border=true&layout=compact&bg_color=7bed9f,2ed573,70a1ff,1e90ff&theme=graywhite&locale=en" />
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
-**📊 this week i spent my time on:**
+## ⏱️ - Time Spent - 时间花费
+<!-- **📊 this week i spent my time on:** -->
 ```text
 Vue3         10 hrs 30 mins    ████████████▒░░░░░░░░░░░░
 Vite         3  hrs 20 mins    █████▒░░░░░░░░░░░░░░░░░░░
